@@ -1,0 +1,1 @@
+C:\Projects\casino\CasinoApp\bin\Debug\CasinoApp.exe.config
